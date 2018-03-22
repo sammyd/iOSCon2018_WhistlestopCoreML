@@ -1,7 +1,6 @@
-# Machine Learning
-## deciphering the _hype_
+# A whistlestop tour of Core ML
 
-This repo accompanies a talk presented at iOSDevUK 2017.
+This repo accompanies a talk presented at iOSCon 2018.
 
 There are two sample iOS apps, demonstrating the use of Core ML:
 

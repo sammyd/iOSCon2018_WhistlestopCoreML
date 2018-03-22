@@ -1,6 +1,6 @@
-# [fit] Machine
-# [fit] Learning
-# [fit] deciphering the __hype__
+# [fit] Core ML:
+# [fit] a __whistlestop__
+# [fit] tour
 
 ---
 
@@ -157,11 +157,11 @@
 
 ---
 
-# ![autoplay](images/svm_2d.m4v)
+![autoplay](images/svm_2d.m4v)
 
 ---
 
-# ![](images/svm_3d.m4v)
+![](images/svm_3d.m4v)
 
 ---
 
@@ -278,7 +278,7 @@
 ---
 
 # [fit] __github.com/sammyd__
-# [fit] /iOSDevUK17_CoreML
+# [fit] /iOSCon2018_WhistlestopCoreML
 # [fit] _-_
 # [fit] _@iwantmyrealname_
 
