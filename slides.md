@@ -10,7 +10,7 @@
 ---
 
 > With Core ML, you can integrate trained machine learning models into your app.
--- devloper.apple.com
+-- developer.apple.com
 
 ---
 
@@ -157,11 +157,55 @@
 
 ---
 
-![autoplay](images/svm_2d.m4v)
+![](images/svm_2d_01.png)
 
 ---
 
-![](images/svm_3d.m4v)
+![](images/svm_2d_02.png)
+
+---
+
+![](images/svm_2d_03.png)
+
+---
+
+![](images/svm_2d_04.png)
+
+---
+
+![](images/svm_2d_05.png)
+
+---
+
+![](images/svm_2d_06.png)
+
+---
+
+![](images/svm_2d_07.png)
+
+---
+
+![](images/svm_3d_01.png)
+
+---
+
+![](images/svm_3d_02.png)
+
+---
+
+![](images/svm_3d_03.png)
+
+---
+
+![](images/svm_3d_04.png)
+
+---
+
+![](images/svm_3d_05.png)
+
+---
+
+![](images/svm_3d_06.png)
 
 ---
 
@@ -187,55 +231,55 @@
 
 ---
 
-# ![100%](images/conv_01.png)
+![](images/conv_01.png)
 
 ---
 
-# ![100%](images/conv_02.png)
+![](images/conv_02.png)
 
 ---
 
-# ![100%](images/conv_03.png)
+![](images/conv_03.png)
 
 ---
 
-# ![100%](images/conv_04.png)
+![](images/conv_04.png)
 
 ---
 
-# ![100%](images/conv_05.png)
+![](images/conv_05.png)
 
 ---
 
-# ![100%](images/conv_06.png)
+![](images/conv_06.png)
 
 ---
 
-# ![100%](images/conv_07.png)
+![](images/conv_07.png)
 
 ---
 
-# ![100%](images/conv_08.png)
+![](images/conv_08.png)
 
 ---
 
-# ![80%](images/fcl_01.png)
+![fit](images/fcl_01.png)
 
 ---
 
-# ![80%](images/fcl_02.png)
+![fit](images/fcl_02.png)
 
 ---
 
-# ![80%](images/fcl_03.png)
+![fit](images/fcl_03.png)
 
 ---
 
-# ![80%](images/fcl_04.png)
+![fit](images/fcl_04.png)
 
 ---
 
-# ![100%](images/cnn_overview.png)
+![](images/cnn_overview.png)
 
 ---
 
